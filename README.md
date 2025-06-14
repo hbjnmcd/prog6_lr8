@@ -8,3 +8,6 @@
 А это я:
 
 ![А я сильно молодая](https://github.com/hbjnmcd/prog6_lr8/blob/main/image/me_so_young.JPG)
+
+А вот два человека на одном изображении:
+![](https://github.com/hbjnmcd/prog6_lr8/blob/main/image/shaman.JPG)
